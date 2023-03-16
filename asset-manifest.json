@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/firebase-ecommerce/static/css/main.f66448dc.css",
-    "main.js": "/firebase-ecommerce/static/js/main.9e63ee80.js",
+    "main.js": "/firebase-ecommerce/static/js/main.287d01a0.js",
     "static/js/787.f27f1712.chunk.js": "/firebase-ecommerce/static/js/787.f27f1712.chunk.js",
     "static/media/incognito.png": "/firebase-ecommerce/static/media/incognito.7a96d04b8cf7f0dc21f3.png",
     "static/media/search-icon.png": "/firebase-ecommerce/static/media/search-icon.3898d5b59cd545abc188.png",
     "static/media/user.png": "/firebase-ecommerce/static/media/user.f1f9a189a7ecde879103.png",
     "index.html": "/firebase-ecommerce/index.html",
     "main.f66448dc.css.map": "/firebase-ecommerce/static/css/main.f66448dc.css.map",
-    "main.9e63ee80.js.map": "/firebase-ecommerce/static/js/main.9e63ee80.js.map",
+    "main.287d01a0.js.map": "/firebase-ecommerce/static/js/main.287d01a0.js.map",
     "787.f27f1712.chunk.js.map": "/firebase-ecommerce/static/js/787.f27f1712.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f66448dc.css",
-    "static/js/main.9e63ee80.js"
+    "static/js/main.287d01a0.js"
   ]
 }
